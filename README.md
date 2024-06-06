@@ -5,7 +5,7 @@
 
 ## Prerequisites
 
-Node and npm installed
+Node and npm installed  
 MongoDB installed
 ## Installation
 
