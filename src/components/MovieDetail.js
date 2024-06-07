@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import "./MovieDetail.css"
 function MovieDetail(Movie) {
-  console.log(Movie)
   const id  = Movie.Movie._id;
   const [movie, setMovie] = useState(null);
 
